@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1415367061 source:/home/shin/Desktop/CODE:BLOCK/CLIENT/main.cpp
+	<errno.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<pthread.h>
+	<iostream>
+	"SlideWindow.h"
+
+1415366719 source:/home/shin/Desktop/CODE:BLOCK/CLIENT/CountOneBits.cpp
+	"CountOneBits.h"
+
+1415366718 /home/shin/Desktop/CODE:BLOCK/CLIENT/CountOneBits.h
+	<string.h>
+
+1415366719 /home/shin/Desktop/CODE:BLOCK/CLIENT/SlideWindow.h
+	<errno.h>
+	<string.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<pthread.h>
+	<iostream>
+	"SEQSTACK.h"
+	"MyStruct.h"
+	"CountOneBits.h"
+	<stdio.h>
+	<stdlib.h>
+
+1415366719 /home/shin/Desktop/CODE:BLOCK/CLIENT/SEQSTACK.h
+
+1415366986 /home/shin/Desktop/CODE:BLOCK/CLIENT/MyStruct.h
+	<iostream>
+	<string.h>
+
+1415366986 source:/home/shin/Desktop/CODE:BLOCK/CLIENT/MyStruct.cpp
+	"MyStruct.h"
+
+1415366718 source:/home/shin/Desktop/CODE:BLOCK/CLIENT/SEQSTACK.cpp
+	"SEQSTACK.h"
+
+1415371444 source:/home/shin/Desktop/CODE:BLOCK/CLIENT/SlideWindow.cpp
+	"SlideWindow.h"
+	<iostream>
+
+1415366719 source:/home/dongseopshin/workspace/code::blocks/CLIENT/CountOneBits.cpp
+	"CountOneBits.h"
+
+1415366718 /home/dongseopshin/workspace/code::blocks/CLIENT/CountOneBits.h
+	<string.h>
+
+1415366986 source:/home/dongseopshin/workspace/code::blocks/CLIENT/MyStruct.cpp
+	"MyStruct.h"
+
+1415366986 /home/dongseopshin/workspace/code::blocks/CLIENT/MyStruct.h
+	<iostream>
+	<string.h>
+
+1415366718 source:/home/dongseopshin/workspace/code::blocks/CLIENT/SEQSTACK.cpp
+	"SEQSTACK.h"
+
+1415366719 /home/dongseopshin/workspace/code::blocks/CLIENT/SEQSTACK.h
+
+1415371444 source:/home/dongseopshin/workspace/code::blocks/CLIENT/SlideWindow.cpp
+	"SlideWindow.h"
+	<iostream>
+
+1415366719 /home/dongseopshin/workspace/code::blocks/CLIENT/SlideWindow.h
+	<errno.h>
+	<string.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<pthread.h>
+	<iostream>
+	"SEQSTACK.h"
+	"MyStruct.h"
+	"CountOneBits.h"
+	<stdio.h>
+	<stdlib.h>
+
