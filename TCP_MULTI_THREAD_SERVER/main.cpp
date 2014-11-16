@@ -299,7 +299,7 @@ void *connection_handler(void *socket_desc)
                 }
 //FILE TRANSFER SUCCESS!
 //RELEASE TIMEOUT RECV!! 타임아웃해제시키는거
-                timeout = 3000000; //in milliseconds. this is 3000 seconds
+                timeout = 0; //in milliseconds. this is 3000 seconds
                 nErrorCode = setsockopt(sock,SOL_SOCKET,SO_RCVTIMEO,(char *)&timeout,sizeof(int)); //setting the receive timeout
             }
         }
