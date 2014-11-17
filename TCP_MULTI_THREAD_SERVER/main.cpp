@@ -25,7 +25,7 @@ int main(int argc , char *argv[])
 {
     int socket_desc , client_sock , c , *new_sock;
     struct sockaddr_in server , client;
-    cout << "Hello git2" << endl;
+    
 //Create socket
     socket_desc = socket(AF_INET , SOCK_STREAM , 0);//IPV4 프로토콜, TCP/IP 프로토콜
     if (socket_desc == -1)
